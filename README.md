@@ -23,7 +23,7 @@ This network topology design simulates the setup for a **multi-branch institutio
 
 Here’s a visual representation of the designed network topology:
 
-![Network Topology Diagram](./images/network-topology.png)
+![Network Topology Diagram](./Diagram.png)
 
 ### Diagram Features:
 - **Main Router (ISR-321)**: Centralized routing for the network.
